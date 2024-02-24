@@ -41,6 +41,9 @@ Throughout these assignments, I utilized a variety of tools and programming lang
 
 ## Connect
 
-I am passionate about data analytics and continuously seeking opportunities to learn and collaborate with like-minded individuals. Feel free to reach out to me on Linkedin [https://www.linkedin.com/in/alvinmhabieb/] or drop me an email at [alvinmhabieb@gmail.com].
+I am always looking to connect with fellow data enthusiasts and professionals. If you have any questions about my projects or if you're interested in collaborating, feel free to reach out!
+
+- LinkedIn: [https://www.linkedin.com/in/alvinmhabieb/]
+- Email: [alvinmhabieb@gmail.com]
 
 Thank you for visiting my repository. I hope you find the projects informative and inspiring.

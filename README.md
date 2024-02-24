@@ -1,4 +1,4 @@
-# Business Intelligence Specialized Bootcamp Portfolio
+# Business Intelligence Specialized Bootcamp Portfolio by dibimbing.id
 
 Welcome to my GitHub repository, which serves as a comprehensive archive of my assignments and portfolios created during my participation in the Business Intelligence Specialized Bootcamp hosted by dibimbing.id. This collection represents a significant phase of my educational journey, showcasing my growth, learning, and hands-on experience in various domains of Business Intelligence and Data Analytics.
 
